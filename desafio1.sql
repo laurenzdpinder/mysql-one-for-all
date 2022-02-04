@@ -33,7 +33,7 @@ VALUES
   ('Hallowed Steam', 1995, 3),
   ('Incandescent', 1998, 4),
   ('Temporary Culture', 2001, 2),
-  ('Library of liberty', 2003, 5),
+  ('Library of liberty', 2003, 2),
   ('Chained Down', 2007, 5),
   ('Cabinet of fools', 2012, 5),
   ('No guarantees', 2015, 5),
